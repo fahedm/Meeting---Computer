@@ -1,0 +1,46 @@
+Computer works on 0s and 1s. Binary Form
+Assembly language. low level
+high level, C language
+
+Procedural Language C > C++ > Java
+Object oriented > C++ Java > Python
+
+compiler , interpreter 
+
+memory > 0,1 
+Storage >
+Cloud Storage > Datacenter
+
+Database > Table of content
+Home
+id , name, age, work, education1
+1, Papa, 56, Home, education(2)
+2, Mummy, 50, Home, 
+3, Subia, 26, IT, education(1)
+4, Fahed, 28, Eng, education, 4,6,3
+5, Sara, 17, Student, Diploma
+
+Education 
+id, course, university
+1, MSc, Jamia
+2, MSc, Azamgarh
+3, Metch, Bits
+4, SDiploma, jamia,
+5, BSc, Jamia
+6, Btech , Bits
+
+RDBMS, Relation Database > 99% of the systems 
+
+Structured Query Language > SQL
+
+Select * from Home where education = 'MSc' 
+
+
+Frontend > Web Designing
+
+HTML, CSS, JavaScript
+
+Angular, React > 
+
+https://www.hackerrank.com/
+
